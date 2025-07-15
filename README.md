@@ -1,4 +1,3 @@
-# github-final-project
 # 📈 Simple Interest Calculator
 
 A calculator that calculates **Simple Interest** given:
